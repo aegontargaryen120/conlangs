@@ -9,6 +9,7 @@ A vocabulary reference for the independent human language used in *The House Tha
 |---|---|---|---|
 | `Vaelith` | You | Pronoun | Second person |
 | `Lenys` | I / me | Pronoun | First person |
+| `Vaelas` | Yourself | Pronoun | Second person |
 
 ## 2. Verbs
 
@@ -20,6 +21,7 @@ A vocabulary reference for the independent human language used in *The House Tha
 | `Thomes` | To want | Regular `-es` verb | Follow the regular verb rules |
 | `Comeles` | To go | if it ends in `-es`.. | \<N/A\>|
 | `Enetas` | To eat | Individually specified | Has its own conjugation rules |
+| `Virynes` | To bring | <N/A> | <N/A>
 
 ## 3. Nouns
 
@@ -32,6 +34,7 @@ A vocabulary reference for the independent human language used in *The House Tha
 | `Molga` | Ice | `Molgoreth` = icestorm |
 | `Minu` | Meal | Can mean breakfast, lunch, or dinner |
 | `Vynsta` | Water | — |
+| `fyr` | Then | - |
 
 ## 4. Compound Nouns
 

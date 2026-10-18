@@ -2,7 +2,7 @@
 
 > **NOTE:** *This is a language created using a video I found on YouTube that explained the concept well.*
 
-The original video can be found [[here][https://www.youtube.com/watch?v=0usHDqGgQAk]].
+The original video can be found [here](https://www.youtube.com/watch?v=0usHDqGgQAk).
 
 ## Step 0: Gather existing words
 
@@ -22,7 +22,7 @@ The original video can be found [[here][https://www.youtube.com/watch?v=0usHDqGg
 > 
 > Once you have a list of all the alphabet you want, start making consonant (or vowel) pairs and define sounds from them.
 > 
-> **Pro Tip:** You can use the [[IPA][https://en.wikipedia.org/wiki/International_Phonetic_Alphabet]] for sounds to choose from.
+> **Pro Tip:** You can use the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) for sounds to choose from.
 
 ---
 
@@ -72,6 +72,6 @@ The original video can be found [[here][https://www.youtube.com/watch?v=0usHDqGg
 
 ## Step 7: Writing system!!
 
-> Make an abjad or alphabet and use it!!
+> Make an abjad or alphabet or abugida and use it!!
 ---
 

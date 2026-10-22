@@ -36,5 +36,13 @@
 | TH | the *th* in **thorn** |
 | GH | A soft **Gh** sound |
 | IE | The *ye* in **YES** |
-| C(*)C(*) | Just stress the consonant |
+| C(\*)C(\*) | Just stress the consonant |
+| YA/IA | *ya* as in the word **yeah** |
+
+## Step 3: Syllable/Word structure
+
+* CVC
+* CVCVC
+* CVVC
+* VCVC
 

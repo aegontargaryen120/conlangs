@@ -6,4 +6,6 @@
 | Sirnyas | Glory | CVCCVC | N.A. | N.A. |
 | Cillien | Mountain | CVCVVC | N.A | N.A |
 | Thos | Peak (any peak, eg peak of adrenalin) | CVC | N.A | N.A |
+| Nyra | Friend | CVCV | N.A. | N.A. |
+| Dyfar | No | CVCVC | N.A. | N.A. |
 

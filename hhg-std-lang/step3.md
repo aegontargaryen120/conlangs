@@ -14,17 +14,17 @@
 * If the adjective ends with a vowel and the noun begins with one, you add a *t* in between them, and the pronunciation is halted slightly, like a small pause.
 * Here's a basic list of adjectives for everyday use:
     * Good &rarr; Syn
-    * Bad &rarr; Viel
+    * Bad &rarr; Synar
     * Big &rarr; Rynias
-    * Small &rarr; Coth
+    * Small &rarr; Ryniasar
     * Hot &rarr; Asna
     * Cold &rarr; Asnafar &rarr; *derivation is related to negation*
     * New &rarr; Nysa
-    * Old &rarr; Egretha
+    * Old &rarr; Nysafar
     * Fast &rarr; Yras
-    * Slow &rarr; Nesca
+    * Slow &rarr; Yrasar
     * Happy &rarr; Vor
-    * Sad &rarr; Roth
+    * Sad &rarr; Vorar
     * Kind &rarr; Lyksa
     * Unkind &rarr; Lyksafar &rarr; *related to negation rule; comes later*
     * Friendly &rarr; Nyria &rarr; *related to deriving adverbs from nouns*

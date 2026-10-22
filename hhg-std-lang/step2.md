@@ -1,5 +1,7 @@
 # Step 2 in the process: Phonology
 
+## 1. The letters/sounds
+
 | Letter | Sound Description | IPA Equivalent |
 | ------ | ----------------- | -------------- |
 | A | The long *a* in **father** | ɑː |
@@ -8,4 +10,20 @@
 | D | A hard *d* sound | d |
 | E | The *e* in **entertainment** | ɛ |
 | F | The *f* sound in **fricative** | f |
-| G | The *g* in **good** | g |
+| G | The *g* in **good** | ɡ |
+| H | The *h* sound in **hello** | h |
+| I | The short *i* sound in **in** | ɪ |
+| J | The *j* sound in **jelmazmo** | ʤ |
+| L | The *l* sound in **lollipop** | l |
+| M | The *m* in **mindfulness** | m |
+| N | The *n* sound in **normal** | n |
+| O | The *o* in **old** | oʊ |
+| P | The *p* in **parasite** | p |
+| R | The rolled *r* | r |
+| S | The *s* in **Step** | s |
+| T | The *t* in **train** | t |
+| U | Pronounced **ooh** | u: |
+| V | The *v* in **equivalent** | v |
+| W | The *w* in **warning** | w |
+| Y | The long *ee* sound | i: |
+

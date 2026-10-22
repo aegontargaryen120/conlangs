@@ -27,3 +27,10 @@
 | W | The *w* in **warning** | w |
 | Y | The long *ee* sound | i: |
 
+---
+
+## 2. Pairs of sounds and how they're pronounced
+
+> [!WARNING]
+> TODO LATER
+

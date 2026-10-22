@@ -31,6 +31,10 @@
 
 ## 2. Pairs of sounds and how they're pronounced
 
-> [!WARNING]
-> TODO LATER
+| Pair | Sound |
+| ---- | ----- |
+| TH | the *th* in **thorn** |
+| GH | A soft **Gh** sound |
+| IE | The *ye* in **YES** |
+| C(*)C(*) | Just stress the consonant |
 

@@ -28,27 +28,42 @@
     * Kind &rarr; Lyksa
     * Unkind &rarr; Lyksafar &rarr; *related to negation rule; comes later*
     * Friendly &rarr; Nyria &rarr; *related to deriving adverbs from nouns*
-    * Quiet &rarr; Censas
-    * Easy &rarr; Sys
-    * Difficult &rarr; Sysar
-    * True &rarr; Ynaras
-    * False &rarr; Ynarasar &rarr; *negation*
-    * Clean &rarr; Vys
-    * Dirty &rarr; Vysar
-    * Full &rarr; Sala
-    * Empty &rarr; Salafar &rarr; *negation*
-    * Correct &rarr; Leneks
-    * Wrong &rarr; Leneksar &rarr; *negation*
-    * Important &rarr; Vynys
-    * Simple &rarr; Iena
-    * Rich &rarr; Cina
-    * Poor &rarr; Cinafar &rarr; *negation*
+    * Quiet &rarr; censas
+    * easy &rarr; sys
+    * difficult &rarr; sysar
+    * true &rarr; ynaras
+    * false &rarr; ynarasar &rarr; *negation*
+    * clean &rarr; vys
+    * dirty &rarr; vysar
+    * full &rarr; sala
+    * empty &rarr; salafar &rarr; *negation*
+    * correct &rarr; leneks
+    * wrong &rarr; leneksar &rarr; *negation*
+    * important &rarr; vynys
+    * simple &rarr; iena
+    * rich &rarr; cina
+    * poor &rarr; cinafar &rarr; *negation*
 
 ## Affixes
 
-* Negation:
-    * The -far (consonant-ending words) or -ar (vowel-ending words) evolved from the word *dyfar*, which is used to negate a sentence.
-    * *Dyfar*, when put at the end of a sentence, negates the sentence.
-    * The suffix negates a word eg. *Cina* (rich) &rarr; *Cinafar* (poor)
-* Noun &rarr; adverb/adjective derivation:
+* negation:
+    * the -far (consonant-ending words) or -ar (vowel-ending words) evolved from the word *dyfar*, which is used to negate a sentence.
+    * *dyfar*, when put at the end of a sentence, negates the sentence.
+    * the suffix negates a word eg. *cina* (rich) &rarr; *cinafar* (poor)
+* noun &rarr; adverb/adjective derivation:
+    * in a -a ending word, to derive the adjective/adverb, we change that ending to -ia, eg *nyra* &rarr; *nyria*
+    * In a - c(\*) ending word &rarr; double the consonant, add a -a at the end.
+
+## Articles
+
+* They come before the noun/word, and conjugate for plurals.
+* The two articles are:
+    * cen &rarr; the
+    * ara &rarr; a/an
+* They change according to the following rules:
+    * If the noun is plural, and the article ends in a consonant, add a -ys
+    * If the noun is plural, and the article ends in a vowel, add a -s
+    * They do not change for singular.
+
+## Plural and/or Grammatical Number
 

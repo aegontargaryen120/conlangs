@@ -68,6 +68,10 @@ The original video can be found [here](https://www.youtube.com/watch?v=0usHDqGgQ
 
 ## Step 6: Make words till done!!
 
+> While you're here, it can't hurt to add a few more rules!
+> 
+> Like for example, I *need* negation, pronouns, plurals, etc. Might as well you have it too!
+
 ---
 
 ## Step 7: Writing system!!

@@ -20,7 +20,7 @@ The original video can be found [here](https://www.youtube.com/watch?v=0usHDqGgQ
 
 > Go through the English (or your preferred language) alphabet and pick out the sounds you want.
 > 
-> Once you have a list of all the alphabet you want, start making consonant (or vowel) pairs and define sounds from them.
+> Once you have a list of all the alphabet you want, start making consonant (and/or vowel) pairs and define sounds from them.
 > 
 > **Pro Tip:** You can use the [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet) for sounds to choose from.
 

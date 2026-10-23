@@ -46,12 +46,12 @@
 
 ## Affixes
 
-* negation:
-    * the -far (consonant-ending words) or -ar (vowel-ending words) evolved from the word *dyfar*, which is used to negate a sentence.
-    * *dyfar*, when put at the end of a sentence, negates the sentence.
-    * the suffix negates a word eg. *cina* (rich) &rarr; *cinafar* (poor)
+* Negation:
+    * The -far (consonant-ending words) or -ar (vowel-ending words) evolved from the word *dyfar*, which is used to negate a sentence.
+    * *Dyfar*, when put at the end of a sentence, negates the sentence.
+    * The suffix negates a word eg. *cina* (rich) &rarr; *cinafar* (poor)
 * noun &rarr; adverb/adjective derivation:
-    * in a -a ending word, to derive the adjective/adverb, we change that ending to -ia, eg *nyra* &rarr; *nyria*
+    * In a -a ending word, to derive the adjective/adverb, we change that ending to -ia, eg *nyra* &rarr; *nyria*
     * In a - c(\*) ending word &rarr; double the consonant, add a -a at the end.
 
 ## Articles
@@ -81,4 +81,43 @@
     * For a noun not ending in -e but ending in -s, change the ending to -es
     * For vowel-ending nouns, change the ending vowel to an -e and add an -s
     * For consonant-ending nouns, add a -es.
+
+## Possession
+
+* Nouns do not show possession.
+* In my language, if you say *This is me bag*, it means the same thing as *This is my bag*.
+
+## Grammatical gender
+
+* There are two genders: simple, and complex.
+* You use simple gender when the sentence is in past/present tense.
+* You use complex gender when the sentence is in future or perfect tense.
+* Simple rules:
+    * Add a -p suffix
+* Complex rules:
+    * Add a -op suffix
+
+## Ergativity
+
+* Same as [possession](#possession).
+
+## Verb Conjugation
+
+* Verbs conjugate for present, past, future, and \<any\> + perfect tense.
+* Rules:
+    * Present:
+        * If it ends in a consonant, add a -p
+        * If it ends in a vowel, add a -sp
+    * Past:
+        * If it ends in a consonant, add a -th
+        * If it ends in a vowel, add a -ath
+    * Future:
+        * Consonant: -gh
+        * Vowel: -th
+    * Perfect: Add the word *ryn* before the conjugated verb
+    * Continuous: Add the word *cys* before the conjugated verb
+
+## Negation
+
+* Add the word *dyfar* at the end of the sentence.
 

@@ -36,8 +36,9 @@
 | TH | the *th* in **thorn** |
 | GH | A soft **Gh** sound |
 | IE | The *ye* in **YES** |
-| C(\*)C(\*) | Just stress the consonant |
+| (CC) | Just stress the consonant |
 | YA/IA | *ya* as in the word **yeah** |
+| (C/V)V(o) | The first sound should be faint, followed by the full *o* |
 
 ## Step 3: Syllable/Word structure
 

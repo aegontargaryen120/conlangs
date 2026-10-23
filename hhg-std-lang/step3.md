@@ -67,3 +67,18 @@
 
 ## Plural and/or Grammatical Number
 
+* Verb changes:
+    * If they end in -g or -t, they take a -h suffix.
+    * For any other consonant, -ys suffix is applied.
+    * If they end in I, a suffix -e is applied.
+    * If they end in Y, a suffix -a is applied.
+    * For any other vowel, a -s suffix is applied.
+* Adjective changes:
+    * For a consonant-ending adjective/adverb, the suffix -ed is applied
+    * For a vowel-ending adjective/adverb, the suffix -d is applied.
+* Noun changes:
+    * For a noun ending in -es or -e, no changes are made. The plural is implied.
+    * For a noun not ending in -e but ending in -s, change the ending to -es
+    * For vowel-ending nouns, change the ending vowel to an -e and add an -s
+    * For consonant-ending nouns, add a -es.
+

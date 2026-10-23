@@ -37,6 +37,7 @@
 | GH | A soft **Gh** sound |
 | IE | The *ye* in **YES** |
 | (CC) | Just stress the consonant |
+| AE | The *ay* in **way** |
 | YA/IA | *ya* as in the word **yeah** |
 | (C/V)V(o) | The first sound should be faint, followed by the full *o* |
 

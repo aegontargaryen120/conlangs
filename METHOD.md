@@ -2,7 +2,7 @@
 
 > **NOTE:** *This is a language created using a video I found on YouTube that explained the concept well.*
 
-The original video can be found [here](https://www.youtube.com/watch?v=0usHDqGgQAk).
+The original video can be found on YouTube, titled [How Build A Fantasy Language - Without Linguistics!](https://www.youtube.com/watch?v=0usHDqGgQAk).
 
 ## Step 0: Gather existing words
 

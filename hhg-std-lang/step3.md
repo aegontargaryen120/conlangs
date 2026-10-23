@@ -2,7 +2,7 @@
 
 ## Word order
 
-* **\[Subject\]-\[Verb\]-\[Object\]**
+* **\[Subject\]-\[Object\]-\[Verb\]**
 * Direct object comes before indirect.
 * Prepositions and other noun modifiers come before the noun.
 * Subject, verb, and object depends on context and usage.
@@ -70,7 +70,7 @@
 * Verb changes:
     * If they end in -g or -t, they take a -h suffix.
     * For any other consonant, -ys suffix is applied.
-    * If they end in I, a suffix -e is applied.
+    * If they end in -i, a suffix -e is applied.
     * If they end in Y, a suffix -a is applied.
     * For any other vowel, a -s suffix is applied.
 * Adjective changes:
@@ -109,10 +109,10 @@
         * If it ends in a consonant, add a -p
         * If it ends in a vowel, add a -sp
     * Past:
-        * If it ends in a consonant, add a -th
-        * If it ends in a vowel, add a -ath
+        * If it ends in a consonant, add a -ath
+        * If it ends in a vowel, add a -th
     * Future:
-        * Consonant: -gh
+        * Consonant: -agh
         * Vowel: -th
     * Perfect: Add the word *ryn* before the conjugated verb
     * Continuous: Add the word *cys* before the conjugated verb

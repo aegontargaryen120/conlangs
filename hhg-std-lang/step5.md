@@ -5,5 +5,8 @@
 * Please: Var
 * You: Vae
 * Me/I: Len
-* Thank (you): 
+* Thank (as in *thank you* (implied)): Jica
+* Sorry (as *pardon?*): Hal
+* Sorry (as in *oh so sorry*): Voras
+* Yes: Vys
 

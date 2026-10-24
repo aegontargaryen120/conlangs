@@ -9,4 +9,6 @@
 * Sorry (as *pardon?*): Hal
 * Sorry (as in *oh so sorry*): Voras
 * Yes: Vys
+* No: Vysar
+* Then: Fer
 

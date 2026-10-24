@@ -15,4 +15,26 @@
 * Neros: Problem
 * That: Fir
 * (Verb) Escape: Undes
+* This: for
+* Self: Kyn
+* Yourself: Vaesakyn
+* Myself: Lenakyn
+* (Verb) Bring: Synges
+* Upon: Lenth
+* Storm: jelm
+* Ice: Ryssa
+* Fire: Ryssafar
+* Icestorm: Jelmarys
+* Firestorm: Jelmarysar
+* If: Ys
+* Would: Vus
+* (Verb) Explain: Fyres
+* Let: Vem
+* Explanation: Fyrsa
+* (Verb) Have: Ares
+* Enough: One
+* We: Lenys
+* (Verb) Need: Cathes
+* (Verb) Help: Enes
+* (Word) Help: Ensa
 

@@ -105,6 +105,7 @@
 
 * This is only for regular -es ending verbs.
 * Verbs conjugate for present, past, future, and \<any\> + perfect tense.
+* Remove the -es ending before applying the below rules.
 * Rules:
     * Present:
         * If it ends in a consonant, add a -p

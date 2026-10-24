@@ -11,4 +11,6 @@
 * Yes: Vys
 * No: Vysar
 * Then: Fer
+* Gram: Grey
+* Neros: Problem
 

@@ -8,4 +8,5 @@
 | Thos | Peak (any peak, eg peak of adrenalin) | CVC | N.A | N.A |
 | Nyra | Friend | CVCV | N.A. | N.A. |
 | Dyfar | No | CVCVC | N.A. | N.A. |
+| Graminer | Grey Problem | CCVCVCVC | Gram + Neros | CCVC + CVCVC |
 

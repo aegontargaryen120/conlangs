@@ -13,4 +13,6 @@
 * Then: Fer
 * Gram: Grey
 * Neros: Problem
+* That: Fir
+* (Verb) Escape: Undes
 

@@ -103,6 +103,7 @@
 
 ## Verb Conjugation
 
+* This is only for regular -es ending verbs.
 * Verbs conjugate for present, past, future, and \<any\> + perfect tense.
 * Rules:
     * Present:

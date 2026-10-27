@@ -26,6 +26,7 @@
 | V | The *v* in **equivalent** | v |
 | W | The *w* in **warning** | w |
 | Y | The long *ee* sound | i: |
+| Ā | Very *very* long **a** sound; exempt from all special rules | aːː |
 
 ---
 

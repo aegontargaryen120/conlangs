@@ -37,4 +37,5 @@
 * (Verb) Need: Cathes
 * (Verb) Help: Enes
 * (Word) Help: Ensa
-
+* (Word) Ā: Oh (as in *Oh god* or *Oh shit*)
+* (Word) Vāech: Shit (poop, in appropriate context)

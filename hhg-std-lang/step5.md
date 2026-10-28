@@ -39,3 +39,7 @@
 * (Word) Help: Ensa
 * (Word) Ā: Oh (as in *Oh god* or *Oh shit*)
 * (Word) Vāech: Shit (poop, in appropriate context)
+* Down: Ysh
+* Calm: Rysan
+* (Verb) Serve: Dohes
+

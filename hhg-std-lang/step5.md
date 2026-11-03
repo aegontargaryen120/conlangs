@@ -44,4 +44,5 @@
 * (Verb) Serve: Dohes
 * Ynar: A creature who eats the soul of another human.
 * Venareksa: Apocalypse.
+* Venareksafar: Paradise.
 

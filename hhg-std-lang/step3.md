@@ -53,6 +53,9 @@
 * noun &rarr; adverb/adjective derivation:
     * In a -a ending word, to derive the adjective/adverb, we change that ending to -ia, eg *nyra* &rarr; *nyria*
     * In a - c(\*) ending word &rarr; double the consonant, add a -a at the end.
+* To add *to* to a word, you add:
+  * If it ends in vowel, add *-t*
+  * Consonant: *-ot*
 
 ## Articles
 
@@ -122,4 +125,3 @@
 ## Negation
 
 * Add the word *dyfar* at the end of the sentence.
-

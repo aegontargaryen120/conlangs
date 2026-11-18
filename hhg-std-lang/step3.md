@@ -56,6 +56,9 @@
 * To add *to* to a word, you add:
   * If it ends in vowel, add *-t*
   * Consonant: *-ot*
+* To add *of* to a word, you prefix the word with:
+  * If the first letter is a vowel: *F-*
+  * Cosnonant: *Fo-*
 
 ## Articles
 

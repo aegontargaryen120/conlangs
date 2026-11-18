@@ -15,13 +15,13 @@
 - Neros: Problem
 - That: Fir
 - (Verb) Escape: Undes
-- This: for
+- This: For
 - Self: Cyn
 - Yourself: Vaesacyn
 - Myself: Lenacyn
 - (Verb) Bring: Synges
 - Upon: Lenth
-- Storm: jelm
+- Storm: Jelm
 - Ice: Ryssa
 - Fire: Ryssafar
 - Icestorm: Jelmarys
@@ -37,20 +37,56 @@
 - (Verb) Need: Cathes
 - (Verb) Help: Enes
 - (Word) Help: Ensa
-- (Word) Ā: Oh (as in *Oh god* or *Oh shit*
+- (Word) Ā: Oh (as in *Oh god* or *Oh shit*)
 - (Word) Vāech: Shit (poop, in appropriate context)
 - Down: Ysh
 - Calm: Rysan
 - (Verb) Serve: Dohes
-- Ynar: A creature who eats the soul of another human.
-- Venareksa: Apocalypse.
-- Venareksafar: Paradise.
+- (Word) Servant: Dohsa
+- //Ynar: A creature who eats the soul of another human.
+- //Venareksa: Apocalypse.
+- //Venareksafar: Paradise.
 - King: Cel
 - Queen: Celi
 - Peasant: Celafar
 - (Verb) Return: Fyses
-- (Word) Home: Ves
+- (Word) Return: Fysa
+- Home: Ves
 - Sun: Xyn
 - Set: Xes
-- Sunset: Xynes
+- (Word) Sunset || (Verb) Set: Xynes
 - Before: Vyx
+- Wind: Cex
+- (Verb) Whisper: Xores
+- Tree: Lyx
+- (Verb) Carry: Luves
+- Voice: Cwin
+- Dead: Inwe
+- Through: Rac
+- Idea: Ofre
+- What: Gefo
+- (Verb) Lie: Bifes
+- (Word) Lie: Bifsa
+- Beyond: Scyl
+- Although: Ufeo
+- (Verb) Promise: Behes
+- (Word) Promise: Behsa
+- Never: Fyld
+- (Verb) Know: Twites
+- (Verb) Call: Bales
+- (Word) Call: Balsa
+- Some: Eodo
+- Thing: Byd
+- (Verb) To Be: Cemes
+- Better: Forg
+- (Verb) Leave: Biores
+- (Verb) Forget: Sumes
+- For: Hor \<\!-- I apologize for the pronounciation --\>
+- Even: Fryn
+- God: Larns
+- (Verb) To be Afraid of (to Fear something): Ganges
+- (Word) Fear: Neor
+- (Verb) Sleep: Eces
+- (Word) Sleep: Ecsa
+- Beneath: Lund
+- Earth: Spel

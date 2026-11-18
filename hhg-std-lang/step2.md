@@ -48,4 +48,3 @@
 * CVCVC
 * CVVC
 * VCVC
-
